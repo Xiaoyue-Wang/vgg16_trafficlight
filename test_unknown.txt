@@ -1,0 +1,8 @@
+/home/xiaoyue/PycharmProjects/vgg16_learn/image/unknown/24_unknown.jpg
+/home/xiaoyue/PycharmProjects/vgg16_learn/image/unknown/3_unknown.jpg
+/home/xiaoyue/PycharmProjects/vgg16_learn/image/unknown/41_unknown.jpg
+/home/xiaoyue/PycharmProjects/vgg16_learn/image/unknown/40_unknown.jpg
+/home/xiaoyue/PycharmProjects/vgg16_learn/image/unknown/17_unknown.jpg
+/home/xiaoyue/PycharmProjects/vgg16_learn/image/unknown/6_unknown.jpg
+/home/xiaoyue/PycharmProjects/vgg16_learn/image/unknown/14_unknown.jpg
+

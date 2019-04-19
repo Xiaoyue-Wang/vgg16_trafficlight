@@ -1,0 +1,10 @@
+/home/xiaoyue/PycharmProjects/vgg16_learn/image/traffic_light/010_20180927/4546_red.jpg
+/home/xiaoyue/PycharmProjects/vgg16_learn/image/traffic_light/010_20180927/4559_yellow.jpg
+/home/xiaoyue/PycharmProjects/vgg16_learn/image/traffic_light/010_20180927/4572_green.jpg
+/home/xiaoyue/PycharmProjects/vgg16_learn/image/traffic_light/010_20180927/4575_red.jpg
+/home/xiaoyue/PycharmProjects/vgg16_learn/image/traffic_light/010_20180927/4554_red.jpg
+/home/xiaoyue/PycharmProjects/vgg16_learn/image/traffic_light/010_20180927/4552_red.jpg
+/home/xiaoyue/PycharmProjects/vgg16_learn/image/traffic_light/010_20180927/4571_green.jpg
+/home/xiaoyue/PycharmProjects/vgg16_learn/image/traffic_light/010_20180927/4551_green.jpg
+/home/xiaoyue/PycharmProjects/vgg16_learn/image/traffic_light/010_20180927/4539_red.jpg
+
